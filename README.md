@@ -11,8 +11,6 @@
 
 ```pulsed_flow_helical_tube``` contains the code to optimise helical-tube reactor geometry and operating conditions.
 
-```mesh_generation``` contains mesh generation code. Helical tube reactors are meshed in Python using [```classy_blocks```](https://github.com/damogranlabs/classy_blocks). Meshes are generated based on parameterisation variables, as well as fidelities. 
-
 ```parameterisation_study``` contains the code relating to the optimisation of coil cross-section and path.
 
 ## Instructions for Simulated Chemical Reactors
